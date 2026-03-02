@@ -42,10 +42,10 @@ set_RISING_WEDGE_3P_LONG_Tickers = set(RISING_WEDGE_3P_LONG_Tickers)
 def tele_msg(msg):
         
     # Replace YOUR_BOT_TOKEN with your bot token obtained from BotFather
-    bot_token = '6546675793:AAHLlq3Voevkv3URdRIU_AssNj_e7hl-hFM'
+    bot_token = '6xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     
     # Replace CHAT_ID with the ID of the chat you want to send the message to
-    chat_id = '-4029026792'
+    chat_id = '-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     
     # Replace MESSAGE_TEXT with the text of the message you want to send
     message_text ="🟩 ZERODHA SRIDHAR LIVE CASH TRADES "+ msg
@@ -116,5 +116,6 @@ RISING_WEDGE_3P_LONG_Tickers = ['ALKEM', 'AMBUJACEM', 'APLAPOLLO', 'ASIANPAINT',
 RISING_WEDGE_3P_SHORT_Tickers = ['ALKEM', 'AMBUJACEM', 'APLAPOLLO', 'ASIANPAINT', 'ASTRAL', 'AUROPHARMA', 'CROMPTON', 'DABUR', 'GRASIM', 'HCLTECH', 'ICICIPRULI', 'INFY', 'IRCTC', 'KOTAKBANK', 'NESTLEIND', 'PETRONET', 'POWERGRID', 'PPLPHARMA', 'RELIANCE', 'SBIN', 'SIEMENS', 'SRF', 'SUNPHARMA', 'TATACONSUM', 'TATAELXSI', 'TATAMOTORS', 'TATAPOWER', 'TATATECH', 'TCS', 'TITAN', 'TORNTPOWER', 'ULTRACEMCO', 'VOLTAS']
 
 Short_Reversal_A_Entry_SHORT_Tickers = ['ALKEM', 'AMBUJACEM', 'APLAPOLLO', 'ASIANPAINT', 'ASTRAL', 'AUROPHARMA', 'BAJAJ-AUTO', 'CIPLA', 'COLPAL', 'DABUR', 'DMART', 'GODREJCP', 'HCLTECH', 'ICICIGI', 'ICICIPRULI', 'INFY', 'ITC', 'KOTAKBANK', 'PERSISTENT', 'PETRONET', 'POWERGRID', 'PPLPHARMA', 'RELIANCE', 'SBIN', 'SHRIRAMFIN', 'SIEMENS', 'SRF', 'SUNPHARMA', 'TATAMOTORS', 'TATAPOWER', 'TATATECH', 'TCS', 'TITAN', 'TORNTPOWER', 'TRENT', 'ULTRACEMCO']
+
 
 '''
