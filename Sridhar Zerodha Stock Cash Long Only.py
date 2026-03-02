@@ -163,10 +163,10 @@ download_csv_from_url(url, local_filename)
 def tele_msg(msg):
     
     # Replace YOUR_BOT_TOKEN with your bot token obtained from BotFather
-    bot_token = '6253304186:AAFZp0FDx2evq5AHCGUR-U-Aky72kZkVJT4'
+    bot_token = '6xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     
     # Replace CHAT_ID with the ID of the chat you want to send the message to
-    chat_id = '5945944189'
+    chat_id = '5xxxxxxxxxxxxxxxxxxxxx'
     
     # Replace MESSAGE_TEXT with the text of the message you want to send
     message_text ="Sridhar Zerodha Kite Live Cash Long Only "+ msg
@@ -1741,6 +1741,7 @@ while dt.datetime.now(pytz.timezone('Asia/Kolkata')) <  endTime:
            
             
                             
+
 
 
 
