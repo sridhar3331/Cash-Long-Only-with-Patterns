@@ -1,0 +1,7 @@
+07-Oct-2025 02:10PM - An error occurred: 'GODREJCP'
+13-Oct-2025 10:46AM - An error occurred: Excel file format cannot be determined, you must specify an engine manually.
+13-Oct-2025 11:46AM - An error occurred: Truncated file header
+13-Oct-2025 01:46PM - An error occurred: not well-formed (invalid token): line 1, column 243169
+19-Dec-2025 09:19AM - An error occurred: '<' not supported between instances of 'float' and 'NoneType'
+14-Jan-2026 10:30AM - An error occurred: '<' not supported between instances of 'float' and 'NoneType'
+04-Feb-2026 11:55AM - An error occurred: 'TITAN'
